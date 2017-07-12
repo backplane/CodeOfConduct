@@ -1,13 +1,13 @@
-# GoBridge CoC
+# Backplane Community Code of Conduct
 
-GoBridge uses the Go CoC as our base document:
+Backplane Community Code of Conduct is forked from GoBridge CoC which in turn uses the Go CoC as the base document.
 
-[Go CoC](https://golang.org/conduct) | [Go Forum](https://forum.golangbridge.org/) | [Gophers Slack](http://invite.slack.golangbridge.org)
+[GoBridge CoC](https://github.com/gobridge/CodeOfConduct) | [Go CoC](https://golang.org/conduct) | [Backplane Community Slack](https://backplane.slack.com)
 
-## GoBridge Addendum
+## Backplane Addendum
 
 ### Real Names
-If you feel comfortable, we encourage you to use your real name in GoBridge online communities. We find it encourages openness and civility in discussions. However, this is not a requirement.
+If you feel comfortable, we encourage you to use your real name in the Backplane Community. We find it encourages openness and civility in discussions. However, this is not a requirement.
 
 Admins may ask users to change their name / username if it conflicts with known public figures, impersonates other people, sounds like automated tools, contains inappropriate language, or other unclear cases.
 
@@ -26,7 +26,7 @@ While in practice most actions from moderators and administrators will be friend
 #### Suggested strategies for moderators when dealing with observed violations
 Except in the most egregious cases, moderators will follow these guidelines:
 - First, attempt to privately message the user and point out to them that their behavior violates our CoC. Include a link to the CoC in that message.
-- If the user does not respond to a request, escalate to the private #gopher-admins channel on gophers.slack.com to discuss the incident with fellow community moderators.
+- If the user does not respond to a request, escalate to the private #admins channel on backplane.slack.com to discuss the incident with fellow community moderators.
 - Once the issue has been discussed with the fellow community moderators, follow the reporting guidelines below.
 
 In those cases of obvious, flagrant violations, moderators will remove the post immediately, and bring the issue to the attention of the private gophers-admin slack channel.
@@ -43,27 +43,27 @@ Not all spam posts are by spam users. For example, a legitimate user account may
 Commercial content is allowed if relevant to answering a question or keeping inline with a topic. More specific policies and guidelines governing commercial content forthcoming.
 
 #### Reporting guidelines
-If someone is subject to or witnesses unacceptable behavior, or has any other concerns, they are strongly encouraged to notify an administrator or a GoBridge core team member as soon as possible. Every reported concern will follow this workflow until resolved:
-- Make contact by emailing support@golangbridge.org
-  - Your email message will reach the **GoBridge core team** only.
-  - Reports will be confidential within the GoBridge core team.
-- Alternatively, you may contact one of the members of the GoBridge core team directly if you feel more comfortable (see below).
+If someone is subject to or witnesses unacceptable behavior, or has any other concerns, they are strongly encouraged to notify an administrator or a Backplane core team member as soon as possible. Every reported concern will follow this workflow until resolved:
+- Make contact by emailing community@backplane.io
+  - Your email message will reach the **Backplane core team** only.
+  - Reports will be confidential within the Backplane core team.
+- Alternatively, you may contact one of the members of the Backplane core team directly if you feel more comfortable (see below).
 - You will receive a response within 24-48 hours (very likely sooner).
 - The group will review the incident and determine what happened.
 - They may reach out to other community members for more context.
 - The team will reach a decision as to how to act. These include:
   - Nothing.
-  - A private reprimand from the GoBridge team to the individual(s) involved.
-  - An imposed vacation (i.e. asking someone to "take a week off" from all GoBridge moderated properties).
+  - A private reprimand from the Backplane team to the individual(s) involved.
+  - An imposed vacation (i.e. asking someone to "take a week off" from all Backplane moderated properties).
   - A request for a private or public apology.
-  - A temporary or permanent ban from some or all GoBridge moderated properties. GoBridge core team will reach out to the original reporter to let them know what action we decided to take.
-  - Appeals to the decision may be made to the GoBridge core team directly, or any member of the administration team thereof.
+  - A temporary or permanent ban from some or all Backplane moderated properties. 
+- Backplane core team will reach out to the original reporter to let them know what action we decided to take.
+- Appeals to the decision may be made to the Backplane core team directly, or any member of the administration team thereof.
 
-
 #### Administrators
 Below is the list of people who are administrators for our online communities. If you have any issues or need help, please feel free to reach out to anyone on this list. There is also the public `admin-help` channel on Slack where people can get help or clarification on any admin related issues.
 
-**The role of GoBridge: (Core Team):**
+**The role of Backplane: (Core Team):**
 - They are the stewards for the different online communities.
 - They have rights in the systems tied to the primary owner role.
 - They act as administrators.
@@ -74,10 +74,7 @@ Below is the list of people who are administrators for our online communities. I
 - They have rights in the systems tied to the admin role.
 
 **Primary Owner:**
-GoBridge (support@golangbridge.org)
+Backplane (community@backplane.io)
 
-**GoBridge Core Team:**
-[Carlisia Campos](https://twitter.com/carlisia), [Cassandra Gil](https://twitter.com/Cassandraoid), [Edward Muller](https://twitter.com/freeformz), [Florin Pățan](https://twitter.com/dlsniper), [Gunjan Patel](https://twitter.com/Gunjan_Patel1), [Johnny Boursiquot](https://twitter.com/jboursiquot), [William Kennedy](https://twitter.com/goinggodotnet)
-
-**Administrators:**
-[Amy Chen](https://twitter.com/TheAmyDance), [Andy Walker](https://twitter.com/alaskacodes), [Brian Ketelsen](https://twitter.com/bketelsen), [Bryan Liles](https://twitter.com/bryanl), [Damian Gryski](https://twitter.com/dgryski), [Erik St. Martin](https://twitter.com/erikstmartin), [Ernesto Jimenez](https://twitter.com/ernesto_jimenez), [Jason Moiron](https://twitter.com/jmoiron), [Julia Allyce](https://twitter.com/julia_allyce), [Kevin Gillette](https://twitter.com/kevingillette), [Kristoffer Berdal](https://twitter.com/flexd), [Levi Cook](https://twitter.com/levicook), [Luna Duclos](https://twitter.com/PSG_Luna), [Matt Holt](https://twitter.com/mholt6), [Nathan Youngman](https://twitter.com/nathany), [Sarah Adams](https://twitter.com/sadamscodes), [Satish Talim](https://twitter.com/IndianGuru), [Trevor Bramble](https://twitter.com/TrevorBramble)
+**Backplane Core Team (Administrators):**
+TBD
