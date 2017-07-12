@@ -29,7 +29,7 @@ Except in the most egregious cases, moderators will follow these guidelines:
 - If the user does not respond to a request, escalate to the private #admins channel on backplane.slack.com to discuss the incident with fellow community moderators.
 - Once the issue has been discussed with the fellow community moderators, follow the reporting guidelines below.
 
-In those cases of obvious, flagrant violations, moderators will remove the post immediately, and bring the issue to the attention of the private gophers-admin slack channel.
+In those cases of obvious, flagrant violations, moderators will remove the post immediately, and bring the issue to the attention of the private admin slack channel.
 
 #### Dealing with Spam
 Although not explicitly called out in this CoC, we ask that all moderators be aware of and intervene in the case of spam.
